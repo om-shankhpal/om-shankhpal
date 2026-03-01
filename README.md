@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Om Shankhpal 👋
 
-<!--
-**om-shankhpal/om-shankhpal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend-focused Full Stack Developer and Third Year Computer Science Engineering student (CSE '27).
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building full-stack web applications and understanding how systems work at a deeper level.
+
+I primarily work with the MERN stack and have strong fundamentals in core computer science subjects.  
+Currently, I’m learning Spring Boot to strengthen my backend development skills and expand into Java-based application development.
+
+## 🛠 Technical Skills
+
+**Languages:**  
+JavaScript, Java  
+
+**Frontend:**  
+React  
+
+**Backend:**  
+Node.js, Express  
+
+**Database:**  
+MongoDB, PostgreSQL  
+
+**Core Computer Science:**  
+Object Oriented Programming  
+Database Management Systems  
+Operating Systems  
+
+## 📚 Current Focus
+
+- Spring Boot  
+- Data Structures & Algorithms  
+- Backend architecture fundamentals  
