@@ -1,6 +1,6 @@
 # Hi, I'm Om Shankhpal 👋
 
-Backend-focused Full Stack Developer and Third Year Computer Science Engineering student (CSE '27).
+Backend-focused Full Stack Developer and Third Year Computer Engineering student (CSE '27).
 
 ## 👨‍💻 About Me
 
