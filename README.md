@@ -62,7 +62,7 @@ To become a strong **backend engineer** with solid full-stack development skills
 
 ---
 
-## 😄 Fun Fact
+## 😁 Fun Fact
 
 I debug like a detective...  
 except I’m usually the one who committed the crime. 🕵️‍♂️
