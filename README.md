@@ -1,75 +1,91 @@
 # Hi, I'm Om Shankhpal 👋
 
-### 🚀 Backend-Focused Full Stack Developer | Third-Year Computer Engineering Student (CSE '27)
+### ☕ Java Backend Developer | Spring Boot Enthusiast | Third-Year Computer Engineering Student (CSE '27)
 
-I enjoy building full-stack web applications, understanding how systems work behind the scenes, and occasionally spending way too much time debugging something that was caused by one tiny mistake. 😵‍💫
+I enjoy building scalable backend systems, designing APIs, and understanding how modern applications work behind the scenes. Most of my focus is on the **Java + Spring Boot ecosystem**, while also having experience with the **MERN stack** for full-stack development.
 
-Currently working with the **MERN stack** and learning **Spring Boot** to strengthen my backend development skills and grow as a **Java backend developer**.
-
----
-
-## 👨‍💻 About Me
-
-- 💻 Backend-focused full stack developer
-- 🎓 Third-year Computer Engineering student
-- 🌱 Currently learning **Spring Boot** and improving my **DSA** skills
-- ⚙️ Interested in **backend architecture**, APIs, and scalable systems
-- 🧠 Strong foundation in **core computer science subjects**
-- 🛠️ I enjoy building practical projects and learning by doing
+Currently learning deeper backend concepts like **Redis, Kafka, Docker, and Microservices Architecture** to grow into a strong backend engineer.
 
 ---
 
-## 🛠️ Tech Stack
+# 👨‍💻 About Me
 
-### 💡 Languages
-- Java
-- JavaScript
-
-### 🎨 Frontend
-- HTML
-- CSS
-- React
-- Tailwind CSS
-- Responsive UI Design
-
-### ⚙️ Backend
-- Node.js
-- Express.js
-
-### 🗄️ Databases
-- PostgreSQL
-- MongoDB
-- MySQL
-
-### 🧠 Core CS
-- Object-Oriented Programming (OOP)
-- Database Management Systems (DBMS)
-- Operating Systems (OS)
+* ☕ Backend-focused developer passionate about Java and Spring Boot
+* 🎓 Third-year Computer Engineering student
+* 🌱 Currently learning **Microservices, Kafka, Redis, and Docker**
+* ⚙️ Interested in **backend architecture, scalable systems, and APIs**
+* 🧠 Strong understanding of core computer science fundamentals
+* 🛠️ Love building practical projects and learning by solving real problems
+* 🌐 Familiar with MERN stack development as a complementary skillset
 
 ---
 
-## 📚 Currently Focusing On
+# 🛠️ Tech Stack
 
-- 🌱 Spring Boot
-- 🧩 Data Structures & Algorithms
-- 🏗️ Backend Architecture Fundamentals
+## ☕ Backend
+
+* Java
+* Spring Boot
+* Spring MVC
+* REST APIs
+* Microservices Architecture
+* Apache Kafka
+* Redis
+
+## 🗄️ Databases
+
+* PostgreSQL
+* MySQL
+* MongoDB
+
+## ⚙️ DevOps & Tools
+
+* Docker
+* Git & GitHub
+* IntelliJ IDEA
+* Postman
+
+## 🌐 Frontend (Complementary)
+
+* React
+* JavaScript
+* HTML
+* CSS
+* Tailwind CSS
+
+## 🧠 Core CS
+
+* Data Structures & Algorithms
+* Object-Oriented Programming (OOP)
+* Database Management Systems (DBMS)
+* Operating Systems (OS)
 
 ---
 
-## 🎯 Goal
+# 📚 Currently Focusing On
 
-To become a strong **backend engineer** with solid full-stack development skills by building real-world projects, improving problem-solving, and learning how scalable applications are designed.
-
----
-
-## 😁 Fun Fact
-
-I debug like a detective...  
-except I’m usually the one who committed the crime. 🕵️‍♂️
+* 🌱 Spring Boot Ecosystem
+* 🧩 Data Structures & Algorithms
+* 🏗️ Microservices & Backend Architecture
+* ⚡ Redis & Apache Kafka
+* 🐳 Docker & Containerization
 
 ---
 
-## 🤝 Let’s Connect
+# 🎯 Goal
 
-Always open to learning, building cool stuff, and connecting with fellow developers.  
-If you're into **web development, backend systems, or fixing bugs at 2 AM**, we’ll probably get along. 🚀
+To become a strong **Java backend engineer** capable of designing scalable, high-performance applications while maintaining solid full-stack development skills.
+
+---
+
+# 😄 Fun Fact
+
+Half of backend development is solving complex problems.
+The other half is realizing the server wasn’t running. 🚀
+
+---
+
+# 🤝 Let’s Connect
+
+Always open to learning, collaborating, and building cool backend systems.
+If you're into **Java, Spring Boot, Microservices, Kafka, Redis, or scalable architectures**, we’ll probably get along. 🚀
