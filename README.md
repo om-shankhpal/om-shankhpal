@@ -1,91 +1,75 @@
-# Hi, I'm Om Shankhpal 👋
+# 👋 Hi, I'm Om Shankhpal
 
-### ☕ Java Backend Developer | Spring Boot Enthusiast | Third-Year Computer Engineering Student (CSE '27)
-
-I enjoy building scalable backend systems, designing APIs, and understanding how modern applications work behind the scenes. Most of my focus is on the **Java + Spring Boot ecosystem**, while also having experience with the **MERN stack** for full-stack development.
-
-Currently learning deeper backend concepts like **Redis, Kafka, Docker, and Microservices Architecture** to grow into a strong backend engineer.
+☕ Java Backend Developer | Spring Boot | Microservices Enthusiast  
+🎓 Computer Engineering Student (CSE ’27)
 
 ---
 
-# 👨‍💻 About Me
+## 💡 About Me
 
-* ☕ Backend-focused developer passionate about Java and Spring Boot
-* 🎓 Third-year Computer Engineering student
-* 🌱 Currently learning **Microservices, Kafka, Redis, and Docker**
-* ⚙️ Interested in **backend architecture, scalable systems, and APIs**
-* 🧠 Strong understanding of core computer science fundamentals
-* 🛠️ Love building practical projects and learning by solving real problems
-* 🌐 Familiar with MERN stack development as a complementary skillset
+I am a backend-focused developer passionate about building scalable systems, designing REST APIs, and understanding how distributed architectures work in real-world applications.
+
+I primarily work in the **Java + Spring ecosystem**, and I am actively improving my skills in **microservices, system design, and backend engineering principles**.
 
 ---
 
-# 🛠️ Tech Stack
+## ⚙️ What I Do
 
-## ☕ Backend
-
-* Java
-* Spring Boot
-* Spring MVC
-* REST APIs
-* Microservices Architecture
-* Apache Kafka
-* Redis
-
-## 🗄️ Databases
-
-* PostgreSQL
-* MySQL
-* MongoDB
-
-## ⚙️ DevOps & Tools
-
-* Docker
-* Git & GitHub
-* IntelliJ IDEA
-* Postman
-
-## 🌐 Frontend (Complementary)
-
-* React
-* JavaScript
-* HTML
-* CSS
-* Tailwind CSS
-
-## 🧠 Core CS
-
-* Data Structures & Algorithms
-* Object-Oriented Programming (OOP)
-* Database Management Systems (DBMS)
-* Operating Systems (OS)
+- 🔧 Build backend applications using Java & Spring Boot  
+- 🌐 Design and develop RESTful APIs  
+- 🧩 Work with microservices-based architecture  
+- 🗄️ Integrate SQL & NoSQL databases  
+- 🐳 Explore containerization and deployment using Docker  
+- 🧠 Solve DSA problems to strengthen problem-solving skills  
 
 ---
 
-# 📚 Currently Focusing On
+## 🛠️ Tech Stack
 
-* 🌱 Spring Boot Ecosystem
-* 🧩 Data Structures & Algorithms
-* 🏗️ Microservices & Backend Architecture
-* ⚡ Redis & Apache Kafka
-* 🐳 Docker & Containerization
+### ☕ Backend
+Java • Spring Boot • Spring MVC • REST APIs
+
+### ☁️ Microservices & Spring Cloud
+Spring Cloud • Eureka Server (Service Discovery) • OpenFeign (Inter-service Communication) • Spring Cloud Gateway
+
+### 🗄️ Databases
+PostgreSQL • MySQL • MongoDB
+
+### ⚙️ DevOps & Tools
+Docker • Git & GitHub • Postman • IntelliJ IDEA
+
+### 🌐 Frontend (Basic Knowledge)
+HTML • CSS • JavaScript • React • Tailwind CSS
+
+### 🧠 Computer Science Fundamentals
+Data Structures & Algorithms • Object-Oriented Programming • DBMS • Operating Systems
 
 ---
 
-# 🎯 Goal
+## 📚 Currently Learning
 
-To become a strong **Java backend engineer** capable of designing scalable, high-performance applications while maintaining solid full-stack development skills.
-
----
-
-# 😄 Fun Fact
-
-Half of backend development is solving complex problems.
-The other half is realizing the server wasn’t running. 🚀
+- 🧩 Microservices Architecture (Deep Dive)  
+- ⚡ Apache Kafka & Redis  
+- 🐳 Docker & Containerization  
+- 🏗️ System Design Fundamentals  
+- 🧠 Advanced Data Structures & Problem Solving  
 
 ---
 
-# 🤝 Let’s Connect
+## 🎯 Goal
 
-Always open to learning, collaborating, and building cool backend systems.
-If you're into **Java, Spring Boot, Microservices, Kafka, Redis, or scalable architectures**, we’ll probably get along. 🚀
+To become a strong **backend engineer** capable of designing and building scalable, high-performance distributed systems used in real-world production environments.
+
+---
+
+## 🚀 Philosophy
+
+> “First make it work, then make it right, then make it fast.”
+
+---
+
+## 🤝 Let’s Connect
+
+I’m always open to collaboration, learning, and building impactful backend systems.
+
+If you're into **Java, Spring Boot, Microservices, or System Design**, feel free to connect 🚀
