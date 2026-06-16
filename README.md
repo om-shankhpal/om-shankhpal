@@ -1,11 +1,11 @@
-# 👋 Hi, I'm Om Shankhpal
+# Hi, I'm Om Shankhpal
 
 ☕ Java Backend Developer | Spring Boot | Microservices Enthusiast  
 🎓 Computer Engineering Student (CSE ’27)
 
 ---
 
-## 💡 About Me
+## About Me
 
 I am a backend-focused developer passionate about building scalable systems, designing REST APIs, and understanding how distributed architectures work in real-world applications.
 
@@ -13,7 +13,7 @@ I primarily work in the **Java + Spring ecosystem**, and I am actively improving
 
 ---
 
-## ⚙️ What I Do
+## What I Do
 
 - 🔧 Build backend applications using Java & Spring Boot  
 - 🌐 Design and develop RESTful APIs  
@@ -24,7 +24,7 @@ I primarily work in the **Java + Spring ecosystem**, and I am actively improving
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### ☕ Backend
 Java • Spring Boot • Spring MVC • REST APIs
@@ -46,7 +46,7 @@ Data Structures & Algorithms • Object-Oriented Programming • DBMS • Operat
 
 ---
 
-## 📚 Currently Learning
+## Currently Learning
 
 - 🧩 Microservices Architecture (Deep Dive)  
 - ⚡ Apache Kafka & Redis  
@@ -56,13 +56,13 @@ Data Structures & Algorithms • Object-Oriented Programming • DBMS • Operat
 
 ---
 
-## 🎯 Goal
+## Goal
 
 To become a strong **backend engineer** capable of designing and building scalable, high-performance distributed systems used in real-world production environments.
 
 ---
 
-## 🚀 Philosophy
+## Philosophy
 
 > “First make it work, then make it right, then make it fast.”
 
