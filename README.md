@@ -2,11 +2,12 @@
 
 # Hi, I'm Om Shankhpal
 
+</div>
+
 ### ☕ Java Backend Developer | Spring Boot | Microservices Enthusiast
 
 🎓 Computer Engineering Student (CSE ’27)
 
-</div>
 
 ---
 
