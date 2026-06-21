@@ -4,12 +4,6 @@
 
 <br>
 
-<h3>☕ Java Backend Developer | Spring Boot | Microservices Enthusiast</h3>
-
-<p>
-🎓 Computer Engineering Student (CSE ’27)
-</p>
-
 </div>
 
 ---
