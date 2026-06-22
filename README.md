@@ -1,6 +1,6 @@
 <div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=65F76A&center=false&vCenter=true&width=650&lines=Hi%2C+I'm+Om+Shankhpal;Java+Backend+Developer;Spring+Boot+%7C+Microservices+Enthusiast;Building+Scalable+Backend+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=0073F7&center=false&vCenter=true&width=650&lines=Hi%2C+I'm+Om+Shankhpal;Java+Backend+Developer;Spring+Boot+%7C+Microservices+Enthusiast;Building+Scalable+Backend+Systems" alt="Typing SVG" />
 
 <br>
 
