@@ -1,34 +1,46 @@
 # Hi, I'm Om Shankhpal 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=0073F7&center=false&vCenter=true&width=850&lines=Backend+%26+Distributed+Systems+Engineer;Building+Scalable+Microservices+and+Platforms;Java+%7C+Spring+Boot+%7C+Kafka+%7C+MERN;Passionate+About+System+Design+and+Performance" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=0073F7&center=false&vCenter=true&width=900&lines=Java+Backend+Engineer;MERN+Stack+Developer;Building+Scalable+Backend+Systems;Spring+Boot+%7C+Kafka+%7C+React+%7C+Node.js;Passionate+About+System+Design+and+Distributed+Systems" alt="Typing SVG" />
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-I'm a backend-focused software engineer passionate about designing scalable systems, building reliable APIs, and understanding how large-scale distributed applications operate in production environments.
+I'm a software developer passionate about building **scalable backend systems** and **modern full-stack web applications**.
 
-My primary expertise lies in the **Java and Spring ecosystem**, where I enjoy building microservices, designing clean architectures, and solving complex backend challenges. Alongside backend engineering, I also develop full-stack applications using the **MERN stack**, allowing me to understand products end-to-end.
+My primary focus is **Java Backend Development**, where I design robust REST APIs, microservices, and distributed systems using the Spring ecosystem. Alongside backend engineering, I also build responsive and production-ready web applications using the **MERN Stack**, enabling me to develop complete end-to-end solutions.
 
-I enjoy learning system internals, improving performance, and exploring technologies that power modern distributed systems.
+I enjoy solving real-world problems, learning how large-scale systems work, and continuously improving my software engineering skills.
 
 ---
 
-## 💻 What I Build
+# 💻 What I Build
 
-* 🔹 Scalable backend services using Java and Spring Boot
-* 🔹 RESTful APIs and microservices architectures
-* 🔹 Distributed systems with service discovery and API gateways
-* 🔹 Database-driven applications using SQL and NoSQL technologies
-* 🔹 Full-stack applications using the MERN stack
-* 🔹 Containerized applications and deployment workflows
-* 🔹 Efficient and maintainable software following clean architecture principles
+### ☕ Java Backend Development
+
+* Scalable REST APIs using Java & Spring Boot
+* Microservices Architecture
+* Secure Authentication & Authorization (JWT)
+* Database-driven enterprise applications
+* Event-driven applications using Apache Kafka
+* Clean Architecture & Layered Design
+* High-performance backend services
+
+### 🌐 MERN Stack Development
+
+* Responsive React.js applications
+* RESTful APIs using Node.js & Express.js
+* Full-stack CRUD applications
+* Authentication & Authorization
+* MongoDB database integration
+* Modern UI with Tailwind CSS
+* End-to-end web applications
 
 ---
 
 # 🛠 Tech Stack
 
-## Backend Engineering
+## ☕ Backend
 
 * Java
 * Spring Boot
@@ -38,45 +50,48 @@ I enjoy learning system internals, improving performance, and exploring technolo
 * REST APIs
 * JWT Authentication
 
-## Distributed Systems & Microservices
+---
+
+## ⚙️ Microservices & Distributed Systems
 
 * Spring Cloud
 * Eureka Service Discovery
-* OpenFeign
 * Spring Cloud Gateway
+* OpenFeign
+* Apache Kafka
+* Redis
 * Resilience Patterns
 * API Communication Strategies
 
-## Databases
+---
 
-* PostgreSQL
-* MySQL
-* MongoDB
-* Database Design & Query Optimization
-
-## Messaging & Caching
-
-* Apache Kafka
-* Redis
-
-## DevOps & Infrastructure
-
-* Docker
-* Git & GitHub
-* Postman
-* IntelliJ IDEA
-* Linux Fundamentals
-
-## Full Stack Development
-
-### MERN Stack
+## 🌐 MERN Stack
 
 * MongoDB
 * Express.js
 * React.js
 * Node.js
-* Tailwind CSS
 * JavaScript (ES6+)
+* Tailwind CSS
+
+---
+
+## 🗄 Databases
+
+* PostgreSQL
+* MySQL
+* MongoDB
+
+---
+
+## 🐳 DevOps & Tools
+
+* Docker
+* Git & GitHub
+* Postman
+* IntelliJ IDEA
+* VS Code
+* Linux
 
 ---
 
@@ -87,54 +102,78 @@ I enjoy learning system internals, improving performance, and exploring technolo
 * Database Management Systems
 * Operating Systems
 * Computer Networks
-* System Design Fundamentals
+* System Design
+* Design Patterns
 
 ---
 
-# 🌱 Currently Exploring
+# 🌱 Currently Learning
 
-* Event-Driven Architectures
-* Distributed Systems Design
+* Advanced Spring Boot
+* Event-Driven Architecture
 * Apache Kafka Internals
 * Redis Caching Strategies
-* Docker & Container Orchestration
-* Scalability Patterns and Performance Optimization
-* High-Level and Low-Level System Design
+* Docker & Containerization
+* Distributed Systems
+* High-Level & Low-Level System Design
+* Backend Performance Optimization
+* Cloud-Native Development
 
 ---
 
 # 🎯 Career Goal
 
-To become a strong **Backend & Distributed Systems Engineer**, capable of building highly scalable, fault-tolerant, and production-grade systems that serve real-world applications at scale.
+To become a **Software Engineer** specializing in **Java Backend Development**, **Distributed Systems**, and **Full-Stack Web Development**, building scalable, secure, and high-performance applications used by millions of users.
 
 ---
 
-# 📌 Engineering Interests
+# 📌 Areas of Interest
 
-* Microservices Architecture
+### Backend Engineering
+
+* Java
+* Spring Boot
+* REST APIs
+* Microservices
 * Distributed Systems
+* Event-Driven Architecture
 * System Design
-* Backend Performance Optimization
+
+### Full Stack Development
+
+* MERN Stack
+* React.js
+* Node.js
+* Express.js
+* MongoDB
+* Responsive UI Development
+
+### Software Engineering
+
+* Clean Architecture
+* Performance Optimization
+* Scalability
+* Design Patterns
 * Cloud-Native Applications
-* Event-Driven Systems
-* Software Architecture
 
 ---
 
 # 💡 Philosophy
 
-> "Build simple systems first, then make them scalable, reliable, and efficient."
+> **"Write clean code, build scalable systems, and never stop learning."**
 
 ---
 
 # 🤝 Let's Connect
 
-I enjoy collaborating with developers who are passionate about:
+I'm always interested in collaborating on projects related to:
 
-* Backend Engineering
-* Java & Spring Ecosystem
-* Distributed Systems
-* System Design
-* Full Stack Development
+* ☕ Java & Spring Boot
+* 🌐 MERN Stack
+* 🚀 Backend Engineering
+* ⚙️ Microservices
+* 🏗 System Design
+* 📡 Distributed Systems
+* 💻 Open Source
 
-Always open to learning, contributing, and building impactful software 🚀
+Always open to learning, collaborating, and building impactful software together. 🚀
