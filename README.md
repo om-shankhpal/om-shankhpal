@@ -16,7 +16,7 @@ My core focus is on architecting high-throughput REST APIs, event-driven microse
 
 | Domain | Technologies & Infrastructure |
 | :--- | :--- |
-| **Languages** | Java, JavaScript (ES6+), SQL, HTML5, CSS3 |
+| **Languages** | Java, JavaScript (ES6+), |
 | **Backend Engineering** | Spring Boot, Spring MVC, Spring Data JPA, Hibernate, Node.js, Express.js |
 | **Microservices & Messaging** | Spring Cloud, Eureka, API Gateway, OpenFeign, Apache Kafka |
 | **Databases & Caching** | PostgreSQL, MySQL, MongoDB, Redis |
