@@ -1,111 +1,95 @@
-<div align="center">
+# Hi, I'm Om Shankhpal 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=0073F7&center=true&vCenter=true&width=900&lines=Java+Backend+Engineer;MERN+Stack+Developer;Building+Scalable+Backend+Systems;Spring+Boot+%7C+Kafka+%7C+React+%7C+Node.js;Passionate+About+System+Design+and+Distributed+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=0073F7&center=false&vCenter=true&width=900&lines=Java+Backend+Engineer;Spring+Boot+%7C+Microservices+%7C+Kafka;MERN+Stack+Developer;Building+Reliable+Backend+Systems;Learning+System+Design+%26+Distributed+Systems" alt="Typing SVG" />
 
-### Backend-focused Software Engineer building scalable systems across the Java and MERN ecosystems
+I'm a **Java Backend Engineer** focused on building reliable backend systems, REST APIs, and distributed applications using the **Spring ecosystem**.
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
-
-</div>
+I also work with the **MERN stack** to build complete applications from backend APIs to responsive frontend interfaces. My primary interests are **backend architecture, distributed systems, databases, messaging, and system design**.
 
 ---
 
-## About Me
+## 🛠️ Tech Stack
 
-I'm a final-year Computer Engineering student and backend-focused Software Developer who builds high-throughput REST APIs, event-driven microservices, and distributed systems on the Spring ecosystem — and ships end-to-end products with the MERN stack. I care about clean architecture, query performance, and designs that hold up under real load, not just in a demo.
-
----
-
-## Tech Stack
-
-<div align="center">
-
-**Languages**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-**Backend**
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-
-**Microservices & Messaging**
-![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![Eureka](https://img.shields.io/badge/Eureka-6DB33F?style=flat-square&logo=spring&logoColor=white)
-
-**Databases & Caching**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-**Frontend**
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-
-**Tooling & DevOps**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-</div>
+| Area               | Technologies                                                             |
+| :----------------- | :----------------------------------------------------------------------- |
+| **Languages**      | Java, JavaScript (ES6+)                                                  |
+| **Backend**        | Spring Boot, Spring MVC, Spring Data JPA, Hibernate, Node.js, Express.js |
+| **Microservices**  | Spring Cloud, Eureka, API Gateway, OpenFeign                             |
+| **Messaging**      | Apache Kafka                                                             |
+| **Databases**      | PostgreSQL, MySQL, MongoDB                                               |
+| **Caching**        | Redis                                                                    |
+| **Frontend**       | React.js, Tailwind CSS, Redux, Axios                                     |
+| **DevOps & Tools** | Docker, Git, GitHub, Linux, Postman                                      |
+| **Development**    | IntelliJ IDEA, VS Code                                                   |
 
 ---
 
-## Featured Projects
+## 🚀 What I Build
 
-### 🔗 Shorty — Microservices URL Shortener
-A microservices-based URL shortener built to work through service discovery, API gateways, and event-driven design end-to-end.
-- Architected with Spring Cloud, Eureka, and an API Gateway for fault-tolerant service routing
-- Event-driven components powered by Apache Kafka
-- **Live:** [shorty-url-shortener.netlify.app](https://shorty-url-shortener.netlify.app/)
+### Java Backend & Microservices
 
-### 📊 Trade Vault — Trading Journal & Portfolio App
-A full-stack trading journal for tracking trades, performance, and portfolio analytics.
-- Node.js/Express backend with JWT authentication, MongoDB/Mongoose, and Cloudinary-backed file uploads
-- Modular design across Auth, Profile, Trades, Dashboard, and Analytics
-- React frontend in progress
+* Design and develop **RESTful APIs** using Spring Boot.
+* Build modular **microservice architectures** using Spring Cloud.
+* Implement service discovery and API routing with **Eureka and Spring Cloud Gateway**.
+* Work with **Apache Kafka** for asynchronous and event-driven communication.
+* Design persistence layers using **JPA, Hibernate, and relational databases**.
+* Use **Redis** for caching and performance-oriented data access.
+* Implement authentication and authorization using **JWT and RBAC**.
 
----
+### Full-Stack Development
 
-## Core Competencies
-
-**Java & Distributed Backend Architecture**
-- Designing fault-tolerant microservices with Spring Cloud, Eureka, and Spring Cloud Gateway
-- Building asynchronous, event-driven pipelines with Apache Kafka
-- Optimizing relational data access with JPA/Hibernate and multi-level Redis caching
-- Securing REST APIs with JWT authentication and role-based access control
-
-**MERN Full-Stack Engineering**
-- Building modular, reusable UI systems with React.js and Tailwind CSS
-- Designing clean RESTful APIs in Node.js and Express
-- Modeling flexible schemas and managing integrations with MongoDB and Mongoose
-
-**Computer Science Foundations**
-- Data Structures & Algorithms with a focus on optimal time/space complexity
-- System Design — HLD and LLD, scalability patterns, sharding, and replication
-- Design patterns (Creational, Structural, Behavioral) and SOLID principles
+* Build complete web applications using the **MERN stack**.
+* Develop reusable interfaces and components with **React.js**.
+* Design REST APIs using **Node.js and Express.js**.
+* Work with **MongoDB and Mongoose** for document-based data persistence.
 
 ---
 
-## Currently Exploring
-- Apache Kafka internals — partitioning, replication, and fault tolerance
-- LLD/HLD practice for scalable enterprise systems
-- Containerized workflows with Docker and cloud-native deployment
-- Query, connection-pooling, and multi-level caching optimization
+## 🧠 Engineering Interests
+
+I'm particularly interested in:
+
+* **System Design** — HLD, LLD, scalability, reliability, and distributed architectures.
+* **Distributed Systems** — messaging, service communication, fault tolerance, and consistency.
+* **Database Engineering** — query optimization, indexing, transactions, and data modeling.
+* **Backend Performance** — caching, connection pooling, efficient API design, and resource management.
+* **Software Architecture** — SOLID principles, design patterns, modularity, and maintainable code.
+* **Data Structures & Algorithms** — developing strong problem-solving and algorithmic thinking.
 
 ---
 
-## Let's Connect
+## 📚 Currently Learning
 
-I'm a final-year Computer Engineering student actively looking for **Backend Engineer / SDE-1** roles, and always up for a conversation about backend architecture, distributed systems, or open-source collaboration.
+* Apache Kafka internals and distributed messaging
+* High-Level and Low-Level System Design
+* Advanced Spring Boot and Spring Cloud
+* Database optimization and indexing
+* Docker and cloud-native development
+* Scalable backend architecture
 
-📫 **[your-email@example.com]** · 💼 [LinkedIn](https://linkedin.com/in/your-linkedin) · 🌐 [Portfolio](https://your-portfolio-link.com)
+---
+
+## 🔨 Projects
+
+I enjoy building projects that go beyond basic CRUD applications and give me an opportunity to explore **architecture, scalability, messaging, caching, and real-world backend engineering**.
+
+Some of my current work includes:
+
+* **Shorty** — A microservices-based URL shortening platform built with Spring Boot, Spring Cloud, PostgreSQL, Redis, Kafka, and React.
+* **TradeVault** — A trade journal application focused on practical full-stack development using Node.js, Express, MongoDB, React, and cloud-based services.
+
+---
+
+## 🎯 Career Focus
+
+I'm working toward becoming a strong **Backend / Distributed Systems Engineer**, with a focus on designing and building reliable software that can scale.
+
+I'm always interested in:
+
+**Backend Engineering • System Design • Distributed Systems • Open Source • Technical Discussions**
+
+---
+
+### 🤝 Let's Connect
+
+If you're interested in backend engineering, distributed systems, system design, or building software together, feel free to connect.
